@@ -58,7 +58,3 @@
 </div>
 
 ###
-
-<h4 align="left">Activities</h4>
-
-###

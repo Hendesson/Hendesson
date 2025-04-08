@@ -69,6 +69,15 @@
 
 ###
 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Hendesson&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Hendesson&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hendesson/Hendesson/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hendesson/Hendesson/output/pacman-contribution-graph.svg">
@@ -77,10 +86,3 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/94dym64o5g10roa22m0u2hd5b">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=94dym64o5g10roa22m0u2hd5b&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###

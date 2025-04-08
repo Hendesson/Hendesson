@@ -76,3 +76,11 @@
 </picture>
 
 ###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Hendesson">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Hendesson&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###

@@ -1,3 +1,8 @@
+<!-- 🌧️ ASCII RAIN -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/ascii-rain.svg" width="100%" />
+</p>
+
 <h1 align="center">🌍 Hendesson Alves Pereira</h1>
 
 <p align="center">

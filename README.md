@@ -1,6 +1,6 @@
 <!-- 🌧️ ASCII RAIN -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/ascii-rain.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Hendesson/Hendesson/main/ascii-rain.svg" width="100%" />
 </p>
 
 <h1 align="center">🌍 Hendesson Alves Pereira</h1>
@@ -10,7 +10,7 @@ Geógrafo | SIG | Geoprocessamento | Dados Espaciais
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=22&center=true&vCenter=true&width=600&lines=Geoprocessamento+e+SIG;Python+para+Análise+Espacial;QGIS+%7C+ArcGIS+%7C+R;Mapeando+dados+e+transformando+informação" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=22&center=true&vCenter=true&width=600&lines=Geoprocessamento+e+SIG;Python+para+Análise+Espacial;QGIS+%7C+ArcGIS+%7C+R" />
 </p>
 
 ---

@@ -1,0 +1,34 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text {
+      font-family: monospace;
+      font-size: 14px;
+      fill: #00ff9c;
+    }
+
+    .rain {
+      animation: fall linear infinite;
+    }
+
+    @keyframes fall {
+      from { transform: translateY(-300px); }
+      to { transform: translateY(300px); }
+    }
+  </style>
+
+  <rect width="100%" height="100%" fill="#0a0f1c"/>
+
+  <!-- colunas -->
+  <g>
+    <text x="100" y="0" class="rain" style="animation-duration:1s">101010101010</text>
+    <text x="200" y="0" class="rain" style="animation-duration:1.3s">010101010101</text>
+    <text x="300" y="0" class="rain" style="animation-duration:0.9s">111000111000</text>
+    <text x="400" y="0" class="rain" style="animation-duration:1.5s">001100110011</text>
+    <text x="500" y="0" class="rain" style="animation-duration:1.1s">101110111011</text>
+    <text x="600" y="0" class="rain" style="animation-duration:1.4s">010010010010</text>
+    <text x="700" y="0" class="rain" style="animation-duration:0.8s">111111000000</text>
+    <text x="800" y="0" class="rain" style="animation-duration:1.2s">000111000111</text>
+    <text x="900" y="0" class="rain" style="animation-duration:1.6s">101010111000</text>
+    <text x="1000" y="0" class="rain" style="animation-duration:1s">010101000111</text>
+  </g>
+</svg>
